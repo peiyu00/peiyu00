@@ -12,7 +12,7 @@ I am Hong Pei Geok from Pontian, Johor and I am taking the Data Engineering cour
 - 🌱 I’m currently learning application development
 - ⚡ In my free time, I like to read novel.
 - 💬 Ask me anything that you are interested about me
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hongpeigeok-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hong-pei-geok-b2378a202)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-hongpeigeok-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hong-pei-geok-b2378a202) <a href="http://peigeok0726@gmail.com"><img src="https://img.shields.io/badge/peigeok0726@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> </a>
 
 ---
 
