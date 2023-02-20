@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/FOF8kogyNXMnU8aNT7/giphy.gif" width="100"/>
+</div>
+
 ### Hi there 👋
 I am Hong Pei Geok from Pontian, Johor and I am taking the Data Engineering course at University Technology Malaysia.
 
