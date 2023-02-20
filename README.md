@@ -25,3 +25,7 @@ I am Hong Pei Geok from Pontian, Johor and I am taking the Data Engineering cour
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
 </div>
+
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=peiyu00)](https://git.io/streak-stats)
