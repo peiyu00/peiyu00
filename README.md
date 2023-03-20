@@ -7,6 +7,8 @@ I am Hong Pei Geok from Pontian, Johor and I am taking the Data Engineering cour
 
 ---
 ### :woman_technologist: About Me :
+<img align="right" width="30%" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
+
 - 📆 26/07/2000
 - 👯 I’m currently study at University Technology Malaysia
 - 🌱 I’m currently learning application development
