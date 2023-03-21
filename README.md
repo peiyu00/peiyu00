@@ -18,6 +18,15 @@ I am Hong Pei Geok from Pontian, Johor and I am taking the Data Engineering cour
 
 ---
 
+### 🏅 Achievements :
+- [Malaysia Dataset EDA: Foreign Direct Investment In Malaysia](https://github.com/peiyu00/Python_EDA/tree/main/Malaysia%20EDA/Haha)
+- [Python Big Data EDA: Car Sales in Russia](https://github.com/peiyu00/Python-big-data/tree/main/Assignment%201/Haha)
+- [Python Datatable Library on Health Insurance Marketplace Dataset](https://github.com/peiyu00/Python-big-data/tree/main/Assignment%202a/AdMiPeQa)
+- [Pandas vs Datatable on Health Insurance Marketplace Dataset](https://github.com/peiyu00/Python-big-data/tree/main/Assignment%202b/AdMiPeQa)
+- [Project: Air Flight Analysis](https://github.com/peiyu00/Python-big-data/tree/main/Project/AdMiPeQa)
+- [Web Scraping E-commerce Sites with Selenium](https://github.com/peiyu00/python-web/tree/main/selenium/AdMiPeQa)
+
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
