@@ -18,7 +18,7 @@ I am Hong Pei Geok from Pontian, Johor and I am taking the Data Engineering cour
 
 ---
 
-### 🏅 Achievements :
+### 🏅 Projects :
 - 💸 [Malaysia Dataset EDA: Foreign Direct Investment In Malaysia](https://github.com/peiyu00/Python_EDA/tree/main/Malaysia%20EDA/Haha)
 - 🚘 [Python Big Data EDA: Car Sales in Russia](https://github.com/peiyu00/Python-big-data/tree/main/Assignment%201/Haha)
 - 💊 [Python Datatable Library on Health Insurance Marketplace Dataset](https://github.com/peiyu00/Python-big-data/tree/main/Assignment%202a/AdMiPeQa)
